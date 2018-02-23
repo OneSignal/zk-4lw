@@ -1,0 +1,13 @@
+Zookeeper version: 3.4.11-37e277162d567b55a07d1755f0b31c32e93c01a0, built on 11/01/2017 18:06 GMT
+Clients:
+ /172.18.0.8:50264[1](queued=0,recved=438,sent=441)
+ /172.18.0.1:59330[0](queued=0,recved=1,sent=0)
+
+Latency min/avg/max: 0/0/22
+Received: 454
+Sent: 456
+Connections: 2
+Outstanding: 0
+Zxid: 0x28
+Mode: standalone
+Node count: 28

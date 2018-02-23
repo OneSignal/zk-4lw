@@ -1,0 +1,10 @@
+[package]
+name = "zk-4lw"
+version = "0.1.0"
+authors = ["Joe Wilm <joe@jwilm.com>"]
+
+[dependencies]
+failure = "0.1.1"
+
+[features]
+client-tests = []
