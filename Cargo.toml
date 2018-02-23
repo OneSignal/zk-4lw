@@ -2,6 +2,12 @@
 name = "zk-4lw"
 version = "0.1.0"
 authors = ["Joe Wilm <joe@jwilm.com>"]
+license = "Apache-2.0"
+description = "Client and parser for ZooKeeper four letter words"
+readme = "README.md"
+repository = "https://github.com/OneSignal/zk-4lw"
+documentation = "https://docs.rs/zk-4lw"
+keywords = ["zookeeper", "4lw"]
 
 [dependencies]
 failure = "0.1.1"
